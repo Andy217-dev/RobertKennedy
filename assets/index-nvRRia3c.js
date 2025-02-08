@@ -9201,7 +9201,7 @@ function Bd() {
             children: "About",
           }),
           v.jsxs("a", {
-            href: "https://www.dextools.io/app/en/ether/pool-explorer/0x79eca7164406d91b8a835b7990b7b5cbde2ebdd2",
+            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x79eca7164406d91b8a835b7990b7b5cbde2ebdd2?t=1739052426947",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
@@ -9254,7 +9254,7 @@ function Hd() {
             children: ["Buy $RFKJR ", v.jsx(Od, { className: "h-5 w-5" })],
           }),
           v.jsxs("a", {
-            href: "https://www.dextools.io/app/en/ether/pool-explorer/0x79eca7164406d91b8a835b7990b7b5cbde2ebdd2",
+            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x79eca7164406d91b8a835b7990b7b5cbde2ebdd2?t=1739052426947",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
