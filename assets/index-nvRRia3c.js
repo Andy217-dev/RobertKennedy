@@ -9262,14 +9262,19 @@ function Hd() {
             children: [v.jsx(tc, { className: "h-5 w-5" }), " View Chart"],
           }),
           v.jsxs("div", {
-            className: "flex gap-3",
+            className: "flex gap-3",      
             children: [
               v.jsx("a", {
                 href: "https://t.me/RFKJR_erc20",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
-                  "border border-yellow-500 text-yellow-500 p-3 rounded-full hover:bg-yellow-500 hover:text-black transition",
+                  "border border-yellow-500 text-yellow-500 rounded-full hover:bg-yellow-500 hover:text-black transition",
+                style: {
+                    paddingLeft: "14px",
+                    paddingRight: "14px",    
+                    paddingTop: "13px"                                
+                },              
                 children: v.jsx($d, { className: "h-5 w-5" }),
               }),
               v.jsx("a", {
@@ -9277,7 +9282,12 @@ function Hd() {
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
-                  "border border-yellow-500 text-yellow-500 p-3 rounded-full hover:bg-yellow-500 hover:text-black transition",
+                  "border border-yellow-500 text-yellow-500 rounded-full hover:bg-yellow-500 hover:text-black transition",
+                style: {
+                    paddingLeft: "19px",
+                    paddingRight: "19px",    
+                    paddingTop: "10px"                                
+                },
                 children: v.jsx("span", {
                   className: "text-xs",
                   children: "X",
@@ -9289,6 +9299,11 @@ function Hd() {
                 rel: "noopener noreferrer",
                 className:
                   "border border-yellow-500 text-yellow-500 p-3 rounded-full hover:bg-yellow-500 hover:text-black transition",
+                style: {
+                    paddingLeft: "17px",
+                    paddingRight: "17px",    
+                    paddingTop: "10px"                                
+                },
                 children: v.jsx("span", {
                   className: "text-xs",
                   children: "M",
