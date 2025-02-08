@@ -9240,7 +9240,7 @@ function Hd() {
       v.jsx("p", {
         className: "text-xl text-gray-300 mb-8 max-w-2xl",
         children:
-          "Concerns over election integrity and the Democratic Party's actions are sparking debate and criticism! 🚽✨",
+          "Concerns over election integrity and the Democratic Party's actions are sparking debate and criticism!",
       }),
       v.jsxs("div", {
         className: "flex gap-4",
