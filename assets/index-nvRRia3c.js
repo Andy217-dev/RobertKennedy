@@ -9449,8 +9449,7 @@ function Yd() {
       children: [
         v.jsxs("div", {
           className: "flex items-center justify-center gap-2 mb-4",
-          children: [
-            v.jsx(rc, { className: "h-6 w-6 text-yellow-500" }),
+          children: [            
             v.jsx("span", {
               className: "text-xl font-bold",
               children: "$RFKJR",
