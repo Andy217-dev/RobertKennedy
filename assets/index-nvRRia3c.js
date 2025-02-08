@@ -9224,7 +9224,7 @@ function Bd() {
 function Hd() {
   return v.jsxs("div", {
     className:
-      "container py-20 flex flex-col items-center text-center bg-gray-800/30",
+      "container py-20 flex mx-auto flex-col items-center text-center bg-gray-800/30",
     children: [
       v.jsx("img", {
         src: "/images/photo_2024-11-18_20-05-23.jpg",
@@ -9283,6 +9283,17 @@ function Hd() {
                   children: "X",
                 }),
               }),
+              v.jsx("a", {
+                href: "https://medium.com/@Roy414/robert-f-kennedy-jr-b32859f0fb5f",
+                target: "_blank",
+                rel: "noopener noreferrer",
+                className:
+                  "border border-yellow-500 text-yellow-500 p-3 rounded-full hover:bg-yellow-500 hover:text-black transition",
+                children: v.jsx("span", {
+                  className: "text-xs",
+                  children: "M",
+                }),
+              }),
             ],
           }),
         ],
@@ -9299,13 +9310,19 @@ function Wd() {
     id: "about",
     className: "py-20",
     children: v.jsx("div", {
-      className: "container mx-auto px-6",
+      className: "container mx-auto",
+      style: {
+        backgroundImage: `url("/images/chrome_hnGdbmL5r3.png")`,
+        backgroundSize: '100% 100%',
+        paddingTop: "50px",
+        paddingBottom: "50px"
+      },
       children: v.jsxs("div", {
-        className: "max-w-3xl mx-auto",
+        className: "max-w-3xl mx-auto",     
         children: [
           v.jsx("h2", {
             className: "text-4xl font-bold mb-8 text-center",
-            children: 'About "RFKJR"',
+            children: 'About RFKJR',
           }),
           v.jsx("p", {            
             children: [                
@@ -9336,8 +9353,17 @@ function Kd() {
       className: "container mx-auto px-6",
       children: [
         v.jsx("h2", {
-          className: "text-4xl font-bold text-center mb-16",
+          className: "text-4xl font-bold text-center",
+          style: {marginBottom: "20px"},
           children: "Tokenomics",
+        }),
+        v.jsxs("h3", {
+            className:
+              "text-xl font-bold text-center",
+            style: {marginBottom: "20px"},
+            children: [
+              v.jsx("span", { children: "CA: 0xComingSoon" }),              
+            ],
         }),
         v.jsxs("div", {
           className: "mx-auto",
@@ -9430,7 +9456,7 @@ function Xd() {
       "min-h-screen bg-gradient-to-b from-black to-gray-900 text-white",
     children: [
       v.jsxs("header", {
-        className: "relative overflow-hidden",
+        className: "relative overflow-hidden w-full",
         children: [v.jsx(Bd, {}), v.jsx(Hd, {})],
       }),
       v.jsx(Qd, {}),
