@@ -9209,7 +9209,7 @@ function Bd() {
             children: [v.jsx(tc, { className: "h-5 w-5" }), "Chart"],
           }),
           v.jsx("a", {
-            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet",
+            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xeEBDb71bEBcfa78aca78fCEB7E8309CCD258EAC2&chain=mainnet",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
@@ -9246,7 +9246,7 @@ function Hd() {
         className: "flex gap-4",
         children: [
           v.jsxs("a", {
-            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet",
+            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xeEBDb71bEBcfa78aca78fCEB7E8309CCD258EAC2&chain=mainnet",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
@@ -9377,7 +9377,7 @@ function Kd() {
               "text-xl font-bold text-center",
             style: {marginBottom: "20px"},
             children: [
-              v.jsx("span", { children: "CA: 0xComingSoon" }),              
+              v.jsx("span", { children: "CA: 0xeEBDb71bEBcfa78aca78fCEB7E8309CCD258EAC2" }),              
             ],
         }),
         v.jsxs("div", {
