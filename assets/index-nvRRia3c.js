@@ -9181,7 +9181,6 @@ function Bd() {
       v.jsxs("div", {
         className: "flex items-center gap-2",
         children: [
-          v.jsx(rc, { className: "h-8 w-8 text-yellow-500" }),
           v.jsx("span", {
             className: "text-2xl font-bold",
             children: "$RFKJR",
