@@ -9183,7 +9183,7 @@ function Bd() {
         children: [
           v.jsx("span", {
             className: "text-2xl font-bold",
-            children: "$RFKJR",
+            children: "$JAILSTOOL",
           }),
         ],
       }),
@@ -9234,13 +9234,13 @@ function Hd() {
       v.jsxs("h1", {
         className: "text-6xl font-bold mb-6",
         children: [
-          "Robert F. Kennedy Jr",     
+          "Stool Prisondente",     
         ],
       }),
       v.jsx("p", {
         className: "text-xl text-gray-300 mb-8 max-w-2xl",
         children:
-          "Concerns over election integrity and the Democratic Party's actions are sparking debate and criticism!",
+          "Embracing the Unknown: Why Holding onto $Jailstool Could Lead to Big Rewards",
       }),
       v.jsxs("div", {
         className: "flex gap-4",
@@ -9251,7 +9251,7 @@ function Hd() {
             rel: "noopener noreferrer",
             className:
               "bg-yellow-500 text-black px-8 py-3 rounded-full font-bold hover:bg-yellow-400 transition flex items-center gap-2",
-            children: ["Buy $RFKJR ", v.jsx(Od, { className: "h-5 w-5" })],
+            children: ["Buy $JAILSTOOL ", v.jsx(Od, { className: "h-5 w-5" })],
           }),
           v.jsxs("a", {
             href: "https://www.dextools.io/app/en/ether/pair-explorer/0x79eca7164406d91b8a835b7990b7b5cbde2ebdd2?t=1739052426947",
@@ -9265,7 +9265,7 @@ function Hd() {
             className: "flex gap-3",      
             children: [
               v.jsx("a", {
-                href: "https://t.me/RFKJR_erc20",
+                href: "https://t.me/jailstool_eth",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
@@ -9278,7 +9278,7 @@ function Hd() {
                 children: v.jsx($d, { className: "h-5 w-5" }),
               }),
               v.jsx("a", {
-                href: "https://x.com/elonmusk/status/1888285166411321456",
+                href: "https://x.com/stoolpresidente/status/1888459668709683562",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
@@ -9293,22 +9293,22 @@ function Hd() {
                   children: "X",
                 }),
               }),
-              v.jsx("a", {
-                href: "https://medium.com/@Roy414/robert-f-kennedy-jr-b32859f0fb5f",
-                target: "_blank",
-                rel: "noopener noreferrer",
-                className:
-                  "border border-yellow-500 text-yellow-500 p-3 rounded-full hover:bg-yellow-500 hover:text-black transition",
-                style: {
-                    paddingLeft: "17px",
-                    paddingRight: "17px",    
-                    paddingTop: "10px"                                
-                },
-                children: v.jsx("span", {
-                  className: "text-xs",
-                  children: "M",
-                }),
-              }),
+              // v.jsx("a", {
+              //   href: "https://medium.com/@Roy414/robert-f-kennedy-jr-b32859f0fb5f",
+              //   target: "_blank",
+              //   rel: "noopener noreferrer",
+              //   className:
+              //     "border border-yellow-500 text-yellow-500 p-3 rounded-full hover:bg-yellow-500 hover:text-black transition",
+              //   style: {
+              //       paddingLeft: "17px",
+              //       paddingRight: "17px",    
+              //       paddingTop: "10px"                                
+              //   },
+              //   children: v.jsx("span", {
+              //     className: "text-xs",
+              //     children: "M",
+              //   }),
+              // }),
             ],
           }),
         ],
@@ -9328,7 +9328,7 @@ function Wd() {
       className: "container mx-auto",
       style: {
         backgroundImage: `url("/images/chrome_hnGdbmL5r3.png")`,
-        backgroundSize: '100% 100%',
+        backgroundSize: '80% 100%',
         paddingTop: "50px",
         paddingBottom: "50px"
       },
@@ -9337,22 +9337,18 @@ function Wd() {
         children: [
           v.jsx("h2", {
             className: "text-4xl font-bold mb-8 text-center",
-            children: 'About RFKJR',
+            children: 'About JAILSTOOL',
           }),
           v.jsx("p", {            
             children: [                
                 v.jsx("p",{
-                    className: "text-xl text-left text-gray-300 mb-6",
-                    children: ["The Democratic Party still doesn’t realize how many Americans they have alienated with their shady, ironically UNDEMOCRATIC tactics."]                    
+                    className: "text-xl text-left text-yellow-300 mb-6",
+                    children: ["Crazy thing about $jailstool is up till 48 hours ago I wouldn’t have even known a coin like this existed at this point."]                    
                 }),
                 v.jsx("p",{
-                    className: "text-xl text-left text-gray-300 mb-6",
-                    children: ["Against the wishes of their electorate, they stopped Bernie from being the candidate several years ago, then trashed RFK very unfairly and then switched Kamala for Biden without even holding a primary!"]                    
-                }),
-                v.jsx("p",{
-                    className: "text-xl text-left text-gray-300 mb-6",
-                    children: ["Now they are relentlessly trashing @DOGE, which is just trying to stop fraud, waste and abuse of your taxpayer dollars and report back to the public with maximum transparency! It’s messed up."]                    
-                })                                
+                    className: "text-xl text-left text-yellow-300 mb-6",
+                    children: ["So in my mind we’re still early. I get everybody has to do what’s right for them but I feel like if we hold tight until big money can flow in we all win."]                    
+                }),                                                
             ]
           }),
         ],
@@ -9377,7 +9373,7 @@ function Kd() {
               "text-xl font-bold text-center",
             style: {marginBottom: "20px"},
             children: [
-              v.jsx("span", { children: "CA: 0xeEBDb71bEBcfa78aca78fCEB7E8309CCD258EAC2" }),              
+              v.jsx("span", { children: "CA: 0xComingSoon" }),              
             ],
         }),
         v.jsxs("div", {
@@ -9396,7 +9392,7 @@ function Kd() {
                         "flex text-2xl font-bold mb-4 text-yellow-500 justify-between",
                       children: [
                         v.jsx("span", { children: "Symbol" }),
-                        v.jsx("span", { children: "RFKJR" }),
+                        v.jsx("span", { children: "JAILSTOOL" }),
                       ],
                     }),
                     v.jsxs("li", {
@@ -9452,13 +9448,13 @@ function Yd() {
           children: [            
             v.jsx("span", {
               className: "text-xl font-bold",
-              children: "$RFKJR",
+              children: "$JAILSTOOL",
             }),
           ],
         }),
         v.jsx("p", {
           className: "text-gray-400",
-          children: "© 2025 America $RFKJR. All rights reserved.",
+          children: "© 2025 $JAILSTOOL. All rights reserved.",
         }),
       ],
     }),
