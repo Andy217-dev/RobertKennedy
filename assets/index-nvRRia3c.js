@@ -9278,7 +9278,7 @@ function Hd() {
                 children: v.jsx($d, { className: "h-5 w-5" }),
               }),
               v.jsx("a", {
-                href: "https://x.com/stoolpresidente/status/1888459668709683562",
+                href: "https://x.com/jailstool_eth",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
